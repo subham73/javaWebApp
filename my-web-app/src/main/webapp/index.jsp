@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World is it rendering ?/?/!</h2>
+<h2>Fetcing jenkins from direct repo</h2>
 </body>
 </html>
