@@ -5,7 +5,7 @@
 </head>
 <body>
     <h2>Welcome to My Web Application</h2>
-    <h2>Hello check demo its working </h2>
+    <h2>hii priya and others  </h2>
 
     <p>Current Date and Time: 
         <%
@@ -13,6 +13,6 @@
             out.println(new java.text.SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(date));
         %>
     </p>
-    
+
 </body>
 </html>
