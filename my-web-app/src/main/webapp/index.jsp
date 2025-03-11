@@ -5,7 +5,7 @@
 </head>
 <body>
     <h2>Welcome to My Web Application</h2>
-    <h2>Hello check 1</h2>
+    <h2>Hello check 2</h2>
     <p>Current Date and Time: 
         <%
             java.util.Date date = new java.util.Date();
